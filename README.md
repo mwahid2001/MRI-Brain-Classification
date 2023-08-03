@@ -3,7 +3,8 @@ Classification of axial MRI brain tumor images utilizing Simple Convolutional Ne
 ## Dataset Description
 The **Br35H dataset** is a collection of T1-weighted contrast-inhanced MRI brain images obtained from various patients with different brain tumor types. The dataset is preprocessed to include only Axial views of MRI scans, which are commonly used for brain tumor analysis.
 ## Random Example of Each Class
-![image](https://github.com/mwahid2001/axialbrainclassification/assets/133688744/5048c987-e7db-4937-906f-af1ef72b585b)
+![image](![image](https://github.com/mwahid2001/MRI-Brain-Classification/assets/133688744/939a828a-1d52-4a5d-b9ce-531b2cb787ab)
+)
 
 ## Model Architecture
 The CNN architecture used for this classification task is a simple and effective model, consisting of multiple Convolutional and MaxPooling layers, followed by flatten to flatten the inputs of the convolutional layers and Dense layers for classification. The model is implemented using TensorFlow and Keras.
