@@ -1,4 +1,4 @@
-![example](https://github.com/mwahid2001/MRI-Brain-Classification/assets/133688744/71aadc38-1fea-4fdd-8f2d-3499a529cada)# Axial MRI Brain Tumor Images Classification Using Simple CNN Archeticure 
+# Axial MRI Brain Tumor Images Classification Using Simple CNN Archeticure 
 Classification of axial MRI brain tumor images utilizing Simple Convolutional Neural Network (CNN) architecture, using **TensorFlow** . We aim to build a model that can effectively distinguish between **glioma, meningioma, pituitary tumor, and non-tumor cases.** Through deep learning techniques, we aim to contribute to medical image analysis, assisting in early tumor detection and diagnosis for improved patient care.
 ## Dataset Description
 The **Br35H dataset** is a collection of T1-weighted contrast-inhanced MRI brain images obtained from various patients with different brain tumor types. The dataset is preprocessed to include only Axial views of MRI scans, which are commonly used for brain tumor analysis.
