@@ -14,6 +14,8 @@ The CNN architecture used for this classification task is a simple and effective
 The trained model achieves an accuracy 94% on the test dataset, demonstrating its effectiveness in classifying Axial MRI Brain Tumor Images, without augmentation or segmentation of the pictures.
 ## Acknowledgments
 * The Br35H dataset is provided by **[Kaggle](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)** and is used for academic purposes.
+
+
 Please note that the dataset might have been preprocessed or modified for specific use cases in this project, but its origins are attributed to **[Github](https://github.com/chengjun583/brainTumorRetrieval).**
 
 
